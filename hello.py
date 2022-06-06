@@ -5,4 +5,6 @@ mydict2["dob"]="21. April 95"
 
 print(mydict)
 print("Hello world - my world")
-print("Good day!!")
+ 
+def add(x, y):
+    return x + y
